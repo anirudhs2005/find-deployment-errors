@@ -12,10 +12,6 @@ const conn = new jsforce.Connection({
     // you can change loginUrl to connect to sandbox or prerelease env.
     loginUrl: loginUrl
 });
-/**
- * [username description]
- * @type {String}
- */
 
 
 const asyncResultIds = [asyncResultId];
